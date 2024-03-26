@@ -8,6 +8,8 @@
 
 
 
-
+``` javascript
+var myVar = "Hola mundo"
+```
 
 soy de central y aca edite un archivo index.md
